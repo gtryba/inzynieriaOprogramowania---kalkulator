@@ -11,7 +11,5 @@ druga = input()
 
 print (dodaj(pierwsza, druga))
 
-def odejmij(a, b):
-	return a-b
 print("Hello world")
 
