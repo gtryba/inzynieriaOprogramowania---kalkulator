@@ -1,5 +1,4 @@
 Autor: Gabriela Tryba
-Data: 13.03.2022r.
 
-To jest repozytorium testowe z Inżynierii Oprogramowania.
-Będą tutaj pierwsze próbe dot. commitów i branchy.
+To jest repozytorium testowe z Inżynierii Oprogramowania,
+będą tutaj pierwsze próbe dot. commitów i branchy.
