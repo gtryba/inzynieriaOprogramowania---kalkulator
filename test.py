@@ -13,5 +13,7 @@ print (dodaj(pierwsza, druga))
 
 def odejmij(a, b):
 	return a-b
+
+#To jest komentarz, dodany po to aby sprawdzić czy działą commit po ssh
 print("Hello world")
 
